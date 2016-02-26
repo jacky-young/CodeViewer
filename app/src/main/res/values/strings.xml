@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Code Viewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fetch_button">Fetch</string>
+    <string name="progress_0">0/0</string>
+    <string name="edit_url">Input git url e.g. https://github.com/nostra13/Android-Universal-Image-Loader</string>
+    <string name="url_error_msg">Your url is illegal! Please re-input.</string>
+
+</resources>
